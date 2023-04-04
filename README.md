@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xaviune
-- 👀 I’m interested in entrepreneurship, learning code and blockchain!
-- 🌱 I’m currently studying to become a full stack developer
-- 💞️ I’m looking to collaborate on web3 solutions
+- 👀 I’m interested in entrepreneurship, ai and new exciting technologies!
+- 🌱 I’m currently a full stack developer looking for nex projects and opportunities
+- 💞️ I’m willing to collaborate on open sources solutions!
 - 📫 Find me at xaviune@gmail.com
 
 <!---
