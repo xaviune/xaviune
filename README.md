@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xaviune
-- 👀 I’m interested in entrepreneurship, ai and new exciting technologies!
-- 🌱 I’m currently a full stack developer looking for nex projects and opportunities
-- 💞️ I’m willing to collaborate on open sources solutions!
+- 👀 I’m interested in technology for the real world and startups!
+- 🌱 I’m currently a junior full stack developer looking for new projects to work in!
+- 💞️ I’m willing to collaborate on open sources solutions that I like!
 - 📫 Find me at xaviune@gmail.com
 
 <!---
